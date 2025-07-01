@@ -1,6 +1,10 @@
 function Home() {
-    return <h1>Vou tirar você da Progen, em nome de Jesus! Guegue Amo muito você!</h1>
-    
+  return (
+    <h1>Vou tirar você da Progen, em nome de Jesus! Guegue Amo muito você!</h1>
+  );
 }
 
-export default Home; 
+function teste2() {
+  console.log("indentação errada");
+}
+export default Home;
