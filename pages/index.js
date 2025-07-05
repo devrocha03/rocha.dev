@@ -7,9 +7,9 @@ function Home() {
    <button onclick="mostrarMensagem()">Clique aqui</button>
 
   <script>
-    function mostrarMensagem() {
+    function mostrarMensagem()
       alert("Você clicou no botão! 🎉");
-    }
+    
   </script>
 
 </body>
